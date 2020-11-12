@@ -1,4 +1,6 @@
-#!/Users/emma/react-flask-app/api/venv/bin/python3
+#!/bin/sh
+'''exec' "/Users/yanghuipang/Desktop/CS 242/fa20-cs242-project/api/venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

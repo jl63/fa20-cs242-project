@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/emma/react-flask-app/api/venv"
+VIRTUAL_ENV="/Users/yanghuipang/Desktop/CS 242/fa20-cs242-project/api/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
